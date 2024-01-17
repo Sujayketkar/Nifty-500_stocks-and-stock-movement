@@ -1,4 +1,4 @@
-# Nifty-500_stocks-and-stock-movemnt
+# Nifty-500_stocks-and-stock-movement
 Project Overview:
 
 I chose to conduct an exploratory analysis on Nifty-500. With Pandas, examining price and volume trends over a specific timeframe and computing rolling averages becomes a straightforward task. Recently, I utilized Yahoo Finance as a reliable data source to delve into various NSE stock scripts.
